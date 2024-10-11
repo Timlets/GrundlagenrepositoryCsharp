@@ -10,7 +10,7 @@ namespace _2_Konsolenausgabe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Foobar");
+            Console.WriteLine("Fubar");
 
             
 
